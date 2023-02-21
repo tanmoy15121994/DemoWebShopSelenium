@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation">
+
+<listeners>
+<listener  class-name="org.selenium.qa.ExtentReportListener.ExtentReporterNG" />
+</listeners>
+
+    <test name=" Test Cases Execution">
+      <classes>
+          <class name = "org.selenium.qa.testcases.LoginPageTest"></class>
+          <class name = "org.selenium.qa.testcases.HomePageTest"></class>
+      </classes>
+	</test> 	
+</suite> 
+ 

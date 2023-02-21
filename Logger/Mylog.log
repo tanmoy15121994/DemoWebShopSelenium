@@ -1,0 +1,81 @@
+[INFO ] 02-13-2023 17:27:43.082 [main] Logger - For info only
+[INFO ] 02-14-2023 11:22:39.357 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 11:22:43.642 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-14-2023 11:22:44.128 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 11:22:48.131 [main] BaseClass - Login Successfully
+[INFO ] 02-14-2023 15:08:53.836 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:08:58.217 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-14-2023 15:08:58.692 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:09:02.789 [main] BaseClass - Login Successfully
+[INFO ] 02-14-2023 15:21:53.562 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:22:00.235 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-14-2023 15:22:00.720 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:22:05.249 [main] BaseClass - Login Successfully
+[INFO ] 02-14-2023 15:22:05.725 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:40:17.899 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:40:22.119 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:40:24.556 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:40:28.988 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:43:24.653 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:43:30.177 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-14-2023 15:43:30.667 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:43:32.167 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:43:36.569 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:47:31.678 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:47:35.558 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-14-2023 15:47:36.059 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 15:47:39.729 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 17:05:18.043 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-14-2023 17:05:22.184 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:09:24.262 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:09:25.111 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:09:33.134 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:22:54.646 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:22:55.534 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:23:01.080 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:23:21.978 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:23:22.872 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:24:34.798 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:24:39.351 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 15:24:40.059 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:24:44.349 [main] BaseClass - Login Successfully
+[INFO ] 02-17-2023 15:24:56.765 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:02.596 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:09.752 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:37.798 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:41.913 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 15:25:42.631 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:47.912 [main] BaseClass - Login Successfully
+[INFO ] 02-17-2023 15:25:48.668 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:25:53.918 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:26:02.834 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:47:15.795 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:47:20.322 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 15:47:21.012 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:47:22.639 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:54:01.414 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:54:06.017 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:54:09.094 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:56:00.988 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:56:05.739 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 15:56:06.520 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 15:56:09.347 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:10:30.192 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:10:34.554 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 16:10:34.887 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:10:39.368 [main] BaseClass - Login Successfully
+[INFO ] 02-17-2023 16:10:39.684 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:10:44.697 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:10:50.911 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:11:14.809 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:11:20.521 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-17-2023 16:11:21.303 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:11:23.871 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-17-2023 16:11:28.727 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-20-2023 10:11:32.568 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-20-2023 10:11:36.734 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 02-20-2023 10:11:37.413 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-20-2023 10:11:42.198 [main] BaseClass - Login Successfully
+[INFO ] 02-20-2023 10:11:42.839 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-20-2023 10:11:47.684 [main] BaseClass - Launching Chrome Browser
+[INFO ] 02-20-2023 10:11:54.215 [main] BaseClass - Launching Chrome Browser
