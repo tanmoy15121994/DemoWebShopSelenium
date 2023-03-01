@@ -18,46 +18,39 @@ public class HomePageTest extends BaseClass {
 	LoginPage loginpage;
 	HomePage homepage;
 	ContactsPage contactspage;
-	
 
-	public HomePageTest(){
+	public HomePageTest() {
 		super();
 	}
-	
 
 	@BeforeMethod
-	public void setUp(){
+	public void setUp() {
 		initialization();
 		loginpage = new LoginPage();
 		contactspage = new ContactsPage();
-		homepage =  loginpage.login(prop.getProperty("username"), prop.getProperty("password"));
+		homepage = loginpage.login(prop.getProperty("username"), prop.getProperty("password"));
 	}
-	
-    @Test(priority =0)
-    public void verifyHomePageTitle() {
-    	String homePageTitle = homepage.verifyHomePageTitle();
-    	Assert.assertEquals(homePageTitle, "Cogmento CRM","Home Page Title is Invalid");
-    }
-    
-    @Test(priority =1)   
-    public void verifyUserName() {
-    	Assert.assertTrue(homepage.verifyPageUsername());
-    }
-    
-    @Test(priority =2)   
-    public void verifyContactsPage() {
-    	contactspage = homepage.clickContacts();
-    }
-	
-    @AfterMethod
-    public void teraDown() {
-	driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(8000));
-	driver.quit();
+
+	@Test(priority = 0)
+	public void verifyHomePageTitle() {
+		String homePageTitle = homepage.verifyHomePageTitle();
+		Assert.assertEquals(homePageTitle, "Cogmento CRM", "Home Page Title is Invalid");
 	}
-		
+
+	@Test(priority = 1)
+	public void verifyUserName() {
+		Assert.assertTrue(homepage.verifyPageUsername());
+	}
+
+	@Test(priority = 2)
+	public void verifyContactsPage() {
+		contactspage = homepage.clickContacts();
+	}
+
+	@AfterMethod
+	public void teraDown() {
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(8000));
+		driver.quit();
+	}
+
 }
-		
-	
-
-
-

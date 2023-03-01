@@ -18,71 +18,65 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
-	  
+
 	public static WebDriver driver;
 	public static Properties prop;
-	
+
 //Logger
 	public static Logger log = LogManager.getLogger("BaseClass");
 
 // Read the Properties file
-	public BaseClass()
-   {
-	 try {
-		prop = new Properties();
-		FileInputStream ip = new FileInputStream("/home/tanmoymondal/eclipse-workspace/CogmentoProject/src/main/java"
-				 + "/org/cogmento/qa/config/config.properties");
-		
-		prop.load(ip);
-	 }catch (FileNotFoundException e) {
-		e.printStackTrace();
-	 }catch (IOException e) {	
-		e.printStackTrace();	
-     }
-   }		 
-	 
-	 public static void initialization() 
-	{
+	public BaseClass() {
+		try {
+			prop = new Properties();
+			String projectpath = System.getProperty("user.dir");
+			FileInputStream ip = new FileInputStream(
+					projectpath + "/src/main/java/org/selenium/qa/properties/config.properties");
+
+			prop.load(ip);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void initialization() {
 		String browserName = prop.getProperty("browser");
-		String isheadless = "false";
-		
-		if(browserName.equals("chrome")) 
-			
+		String isheadless = prop.getProperty("headless");
+
+		if (browserName.equals("chrome"))
+
 		{
 			ChromeOptions options = new ChromeOptions();
 			WebDriverManager.chromedriver().setup();
-			if(isheadless.equals("true"))
-			{
-			  options.addArguments("headless");
+			if (isheadless.equals("true")) {
+				options.addArguments("headless");
 			}
-			
+
 			driver = new ChromeDriver(options);
-	   	    log.info("Launching Chrome Browser");
-	   	    
-	   	    driver.manage().window().maximize();
+			log.info("Launching Chrome Browser");
+
+			driver.manage().window().maximize();
 			driver.manage().deleteAllCookies();
-	    	driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		
+
 		}
-		
-		 if(browserName.equals("firefox")) 
-	   	{
-  	    	WebDriverManager.firefoxdriver().setup();
-  	        driver = new FirefoxDriver();
-  	        driver.manage().window().maximize();
+
+		if (browserName.equals("firefox")) {
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
 			driver.manage().deleteAllCookies();
-	    	driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-			
-	   	}
-	        driver.get(prop.getProperty("url"));
-	
+
+		}
+		driver.get(prop.getProperty("url"));
+
 	}
 }
-
-
