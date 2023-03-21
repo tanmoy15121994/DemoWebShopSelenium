@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Test Automation]" guice-stage="DEVELOPMENT">
-  <parameter name="selenium.browser" value="headless"/>
-  <listeners>
-    <listener class-name="org.selenium.qa.ExtentReportListener.ExtentReporterNG"/>
-  </listeners>
   <test thread-count="5" name=" Test Cases Execution(failed)">
     <classes>
       <class name="org.selenium.qa.testcases.HomePageTest">
         <methods>
+          <include name="setReport"/>
           <include name="setUp"/>
-          <include name="verifyContactsPage"/>
-          <include name="verifyUserName"/>
+          <include name="getTestClassName"/>
+          <include name="getResult"/>
+          <include name="verifyHomePageTitle"/>
           <include name="teraDown"/>
+          <include name="endExtentReport"/>
         </methods>
       </class> <!-- org.selenium.qa.testcases.HomePageTest -->
-      <class name="org.selenium.qa.testcases.LoginPageTest">
-        <methods>
-          <include name="teraDown"/>
-          <include name="loginTest"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- org.selenium.qa.testcases.LoginPageTest -->
     </classes>
   </test> <!--  Test Cases Execution(failed) -->
 </suite> <!-- Failed suite [Test Automation] -->

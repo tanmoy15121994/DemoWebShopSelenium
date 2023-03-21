@@ -1,23 +1,17 @@
 package org.selenium.qa.baseclass;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
-import java.util.concurrent.TimeUnit;
-
-import org.apache.logging.log4j.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
@@ -33,8 +27,9 @@ public class BaseClass {
 		try {
 			prop = new Properties();
 			String projectpath = System.getProperty("user.dir");
-			FileInputStream ip = new FileInputStream(
-					projectpath + "/src/main/java/org/selenium/qa/properties/config.properties");
+			FileInputStream ip = new FileInputStream(projectpath + File.separator + "src" + File.separator + "main"
+					+ File.separator + "java" + File.separator + "org" + File.separator + "selenium" + File.separator
+					+ "qa" + File.separator + "properties" + File.separator + "configDev.properties");
 
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
@@ -55,6 +50,7 @@ public class BaseClass {
 			WebDriverManager.chromedriver().setup();
 			if (isheadless.equals("true")) {
 				options.addArguments("headless");
+
 			}
 
 			driver = new ChromeDriver(options);
@@ -67,7 +63,7 @@ public class BaseClass {
 
 		}
 
-		if (browserName.equals("firefox")) {
+		else if (browserName.equals("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
 			driver.manage().window().maximize();
@@ -79,4 +75,5 @@ public class BaseClass {
 		driver.get(prop.getProperty("url"));
 
 	}
+
 }

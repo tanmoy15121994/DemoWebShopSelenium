@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.selenium.qa.testcases.LoginPageTest">
+      <class name="org.selenium.qa.testcases.HomePageTest">
         <methods>
-          <include name="teraDown"/>
-          <include name="loginTest"/>
-          <include name="loginPageTitleTest"/>
           <include name="setUp"/>
+          <include name="verifyHomePageTitle"/>
+          <include name="teraDown"/>
         </methods>
-      </class> <!-- org.selenium.qa.testcases.LoginPageTest -->
+      </class> <!-- org.selenium.qa.testcases.HomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -107,3 +107,292 @@
 [INFO ] 02-27-2023 11:42:50.408 [main] BaseClass - Launching Chrome Browser
 [INFO ] 02-27-2023 11:42:56.276 [main] BaseClass - Launching Chrome Browser
 [INFO ] 02-27-2023 11:43:04.199 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:24:47.026 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:24:51.051 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-03-2023 18:24:51.747 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:24:56.727 [main] BaseClass - Login Successfully
+[INFO ] 03-03-2023 18:24:57.422 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:25:03.219 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:25:09.537 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:28:34.089 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:28:39.316 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-03-2023 18:28:40.083 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-03-2023 18:28:44.489 [main] BaseClass - Login Successfully
+[INFO ] 03-05-2023 11:47:17.115 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:47:21.771 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-05-2023 11:47:22.490 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:47:27.747 [main] BaseClass - Login Successfully
+[INFO ] 03-05-2023 11:47:28.471 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:47:33.208 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:47:39.881 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:57:43.287 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:57:48.013 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-05-2023 11:57:48.770 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:57:53.272 [main] BaseClass - Login Successfully
+[INFO ] 03-05-2023 11:57:54.044 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:57:59.006 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-05-2023 11:58:04.869 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 10:49:11.767 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 10:49:15.732 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-06-2023 10:49:16.473 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 10:49:20.692 [main] BaseClass - Login Successfully
+[INFO ] 03-06-2023 12:34:13.276 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 12:34:17.309 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-06-2023 12:34:18.050 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 12:34:22.313 [main] BaseClass - Login Successfully
+[INFO ] 03-06-2023 17:53:39.923 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-06-2023 17:53:43.924 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-07-2023 15:09:24.095 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-07-2023 15:09:28.427 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-07-2023 15:09:29.162 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-07-2023 15:09:33.928 [main] BaseClass - Login Successfully
+[INFO ] 03-07-2023 15:09:34.699 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-07-2023 15:09:39.719 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-07-2023 15:09:46.686 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 09:52:22.124 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 09:52:27.650 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 10:12:14.529 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 10:12:19.991 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:34:23.162 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:34:30.490 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:37:16.163 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:37:23.539 [main] BaseClass - Screenshot taken
+[INFO ] 03-09-2023 16:37:24.288 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:38:30.614 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 16:38:35.731 [main] BaseClass - Screenshot taken
+[INFO ] 03-09-2023 16:38:35.731 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-09-2023 16:38:36.457 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 17:01:31.318 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-09-2023 17:01:35.801 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-09-2023 17:01:36.533 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:31:16.393 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:32:31.464 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:32:36.420 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:32:42.617 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 00:34:42.935 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:34:48.257 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:34:54.475 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 00:50:45.464 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:50:50.842 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:54:27.282 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:54:31.903 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 00:54:32.660 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:57:51.891 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 00:57:57.561 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 00:57:58.313 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:22:57.233 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:23:02.118 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 01:23:02.953 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:23:09.287 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 01:24:26.989 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:24:31.192 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 01:24:31.898 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:24:36.670 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 01:24:37.399 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:24:41.763 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 01:24:42.485 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:24:48.556 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 01:45:51.483 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:45:55.630 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 01:45:56.363 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:46:00.651 [main] BaseClass - Login Successfully
+[INFO ] 03-10-2023 01:46:01.390 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:46:05.778 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 01:46:06.485 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 01:46:12.867 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 12:12:33.423 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:12:36.996 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 12:12:37.557 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:12:46.077 [main] BaseClass - Login Successfully
+[INFO ] 03-10-2023 12:12:46.616 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:12:52.013 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 12:12:52.571 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:12:58.240 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 12:19:22.810 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:19:27.802 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 12:19:28.326 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:19:37.135 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 12:20:40.236 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:20:44.427 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 12:20:44.963 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:20:50.377 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 12:58:27.615 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:58:32.441 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 12:58:32.967 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:58:36.684 [main] BaseClass - Login Successfully
+[INFO ] 03-10-2023 12:58:37.191 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:58:41.110 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 12:58:41.630 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 12:58:47.682 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 13:00:33.608 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 13:00:39.263 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 13:00:39.850 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 13:00:43.899 [main] BaseClass - Login Successfully
+[INFO ] 03-10-2023 13:00:44.385 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 13:00:48.303 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 13:00:48.451 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 13:00:48.970 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 13:00:53.901 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-10-2023 14:40:11.843 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 14:40:16.242 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 14:40:52.405 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 14:40:57.572 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 15:09:16.694 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 15:09:20.238 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 15:10:21.930 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 15:10:25.529 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-10-2023 15:11:55.624 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 15:12:00.369 [main] BaseClass - Screenshot taken
+[INFO ] 03-10-2023 15:13:28.518 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-10-2023 15:13:33.496 [main] BaseClass - Screenshot taken
+[INFO ] 03-12-2023 20:51:05.143 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 20:51:09.585 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 20:51:11.711 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 20:51:16.566 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 20:55:55.081 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 20:56:00.169 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 20:56:02.243 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 20:56:06.905 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 21:00:59.240 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 21:01:04.529 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 21:01:06.333 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 21:01:06.805 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 21:01:10.953 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 21:01:12.209 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 21:09:59.857 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 21:10:03.592 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 21:10:05.175 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 21:10:05.656 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 21:10:09.850 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 21:10:11.251 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 21:12:39.995 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 21:12:43.851 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 21:12:44.073 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 21:12:45.543 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:39:58.759 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:40:03.441 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 23:40:03.674 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 23:40:05.382 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:40:05.809 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:40:10.717 [main] BaseClass - Screenshot taken
+[INFO ] 03-12-2023 23:40:11.970 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-12-2023 23:40:13.665 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:40:44.496 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:40:49.434 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 23:40:49.656 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 23:40:50.981 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:40:51.462 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:40:55.833 [main] BaseClass - Screenshot taken
+[INFO ] 03-12-2023 23:40:57.059 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-12-2023 23:40:59.220 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:42:40.001 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:42:47.560 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 23:42:47.813 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 23:42:49.305 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:42:49.521 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:42:53.928 [main] BaseClass - Screenshot taken
+[INFO ] 03-12-2023 23:42:55.186 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-12-2023 23:42:57.389 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-12-2023 23:53:24.757 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-12-2023 23:53:29.246 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-12-2023 23:53:29.455 [main] BaseClass - Login Successfully
+[INFO ] 03-12-2023 23:53:31.005 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:43:39.227 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:43:43.546 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 01:43:43.754 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 01:43:45.530 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:45:44.014 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:45:49.151 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 01:45:50.376 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 01:45:51.736 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:48:40.669 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:48:44.899 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 01:48:45.127 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 01:48:46.658 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:48:47.130 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:48:50.956 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 01:48:52.152 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 01:48:53.588 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:51:02.440 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:51:06.347 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 01:51:06.567 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 01:51:08.520 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:51:08.989 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:51:13.128 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 01:51:14.306 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 01:51:15.581 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 01:54:09.052 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 01:54:13.000 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 01:54:13.229 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 02:01:37.954 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 02:01:41.711 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 02:01:41.982 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 02:01:43.508 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 02:01:43.954 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 02:01:47.764 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 02:01:48.963 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 02:01:50.452 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:53:48.843 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:53:52.665 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 10:53:52.982 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 10:53:54.901 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:53:55.537 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:54:00.149 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 10:54:01.540 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 10:54:02.789 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:56:26.624 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:56:30.399 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 10:56:30.724 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 10:56:32.300 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:56:32.934 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:56:37.167 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 10:56:38.311 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 10:56:39.527 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:58:27.662 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:58:31.390 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 10:58:31.702 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 10:58:33.022 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 10:58:33.669 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 10:58:38.187 [main] BaseClass - Screenshot taken
+[INFO ] 03-13-2023 10:58:39.316 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 10:58:40.448 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:04:25.871 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:04:29.625 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:04:29.953 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:04:31.544 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:04:32.193 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:09:04.279 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:09:08.115 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:09:08.448 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:09:10.480 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:09:11.120 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:09:16.541 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 11:09:18.697 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:14:49.608 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:14:53.534 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:14:53.843 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:14:54.571 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:15:01.186 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 11:15:03.172 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:24:42.215 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:24:45.944 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:24:46.257 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:24:46.984 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:24:52.411 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 11:24:54.618 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:29:07.280 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:29:11.119 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:29:11.442 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:29:12.174 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:29:17.572 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 11:29:19.351 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 11:36:14.463 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:36:19.349 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 11:36:19.663 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 11:36:20.038 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 11:36:25.816 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 03-13-2023 11:36:28.640 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-13-2023 12:13:24.121 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-13-2023 12:13:28.110 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-13-2023 12:13:28.433 [main] BaseClass - Login Successfully
+[INFO ] 03-13-2023 12:13:30.170 [main] BaseClass - Mail Send Successfully
