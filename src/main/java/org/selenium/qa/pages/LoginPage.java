@@ -4,10 +4,13 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.selenium.qa.utilities.TestUtil;
 
 public class LoginPage extends org.selenium.qa.baseclass.BaseClass {
 
 	// pageFatcory
+	
+	
 
 	@FindBy(xpath = "//input[@name='email']")
 	WebElement username;
