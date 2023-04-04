@@ -396,3 +396,28 @@
 [INFO ] 03-13-2023 12:13:28.110 [main] BaseClass - Successfully validateLoginPageTitle
 [INFO ] 03-13-2023 12:13:28.433 [main] BaseClass - Login Successfully
 [INFO ] 03-13-2023 12:13:30.170 [main] BaseClass - Mail Send Successfully
+[INFO ] 03-31-2023 13:38:30.244 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-31-2023 13:38:37.117 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 03-31-2023 13:38:37.477 [main] BaseClass - Login Successfully
+[INFO ] 03-31-2023 13:38:38.275 [main] BaseClass - Launching Chrome Browser
+[INFO ] 03-31-2023 13:38:47.833 [main] BaseClass - Successfully ValidateUserName
+[INFO ] 04-04-2023 17:30:20.875 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:30:57.133 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:31:01.556 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 04-04-2023 17:31:01.914 [main] BaseClass - Login Successfully
+[INFO ] 04-04-2023 17:32:20.718 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:32:59.470 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:34:16.991 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:35:34.516 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:39:37.581 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:39:48.463 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 04-04-2023 17:39:48.875 [main] BaseClass - Login Successfully
+[INFO ] 04-04-2023 17:42:54.767 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:42:59.962 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 04-04-2023 17:43:00.339 [main] BaseClass - Login Successfully
+[INFO ] 04-04-2023 17:43:01.208 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:43:10.886 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 04-04-2023 17:43:11.398 [main] BaseClass - Login Successfully
+[INFO ] 04-04-2023 17:46:02.716 [main] BaseClass - Launching Chrome Browser
+[INFO ] 04-04-2023 17:46:11.182 [main] BaseClass - Successfully validateLoginPageTitle
+[INFO ] 04-04-2023 17:46:11.697 [main] BaseClass - Login Successfully

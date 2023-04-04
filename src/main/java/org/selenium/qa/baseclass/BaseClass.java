@@ -12,6 +12,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
@@ -43,35 +45,30 @@ public class BaseClass {
 		String browserName = prop.getProperty("browser");
 		String isheadless = prop.getProperty("headless");
 
-		if (browserName.equals("chrome"))
-
-		{
+		if (browserName.equals("chrome")) {
 			ChromeOptions options = new ChromeOptions();
 			WebDriverManager.chromedriver().setup();
 			if (isheadless.equals("true")) {
 				options.addArguments("headless");
-
 			}
-
 			driver = new ChromeDriver(options);
 			log.info("Launching Chrome Browser");
-
-			driver.manage().window().maximize();
-			driver.manage().deleteAllCookies();
-			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
-			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-
 		}
 
 		else if (browserName.equals("firefox")) {
+			FirefoxOptions options = new FirefoxOptions();
 			WebDriverManager.firefoxdriver().setup();
+			if (isheadless.equals("true")) {
+				options.addArguments("headless");
+			}
 			driver = new FirefoxDriver();
-			driver.manage().window().maximize();
-			driver.manage().deleteAllCookies();
-			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
-			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+			log.info("Launching Chrome Browser");
 
 		}
+		driver.manage().window().maximize();
+		driver.manage().deleteAllCookies();
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.get(prop.getProperty("url"));
 
 	}
