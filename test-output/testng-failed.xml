@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Test Automation]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name=" Test Cases Execution(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.selenium.qa.testcases.HomePageTest">
+      <class name="org.selenium.qa.testcases.DemoWebShopTest">
         <methods>
-          <include name="setReport"/>
+          <include name="testAddToCartAndCheckout"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="getTestClassName"/>
-          <include name="getResult"/>
-          <include name="verifyHomePageTitle"/>
-          <include name="teraDown"/>
-          <include name="endExtentReport"/>
         </methods>
-      </class> <!-- org.selenium.qa.testcases.HomePageTest -->
+      </class> <!-- org.selenium.qa.testcases.DemoWebShopTest -->
     </classes>
-  </test> <!--  Test Cases Execution(failed) -->
-</suite> <!-- Failed suite [Test Automation] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

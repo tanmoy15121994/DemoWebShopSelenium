@@ -1,30 +1,35 @@
 package org.selenium.qa.pages;
 
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
 
-public class HomePage extends org.selenium.qa.baseclass.BaseClass {
+public class HomePage {
+    WebDriver driver;
+    WebDriverWait wait;
 
-	public HomePage() {
-		PageFactory.initElements(driver, this);
-	}
+    // Locators
+    By apparelShoesLink = By.xpath("//ul[@class='top-menu']//a[contains(text(),'Apparel & Shoes')]");
+    By electronicsLink = By.xpath("//ul[@class='top-menu']//a[contains(text(),'Electronics')]");
+    By shoppingCartLink = By.xpath("//span[@class='cart-label']");
 
-	@FindBy(xpath = "//div[@class='header item']")
-	WebElement pageLabel;
+    public HomePage(WebDriver driver) {
+        this.driver = driver;
+        wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+    }
 
-	@FindBy(xpath = "//a[contains(@href,'/contacts')]")
-	WebElement contacts;
+    public void clickApparelShoes() {
+        wait.until(ExpectedConditions.elementToBeClickable(apparelShoesLink)).click();
+    }
 
-	@FindBy(xpath = "//a[contains(@href,'/companies')]")
-	WebElement companies;
+    public void clickElectronics() {
+        wait.until(ExpectedConditions.elementToBeClickable(electronicsLink)).click();
+    }
 
-	public String verifyHomePageTitle() {
-		return driver.getTitle();
-	}
-
-	public boolean verifyPageUsername() {
-		return pageLabel.isDisplayed();
-	}
+    public void clickShoppingCart() {
+        wait.until(ExpectedConditions.elementToBeClickable(shoppingCartLink)).click();
+    }
 
 }

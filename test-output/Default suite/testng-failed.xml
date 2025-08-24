@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.selenium.qa.testcases.HomePageTest">
+      <class name="org.selenium.qa.testcases.DemoWebShopTest">
         <methods>
+          <include name="testAddToCartAndCheckout"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="verifyHomePageTitle"/>
-          <include name="teraDown"/>
         </methods>
-      </class> <!-- org.selenium.qa.testcases.HomePageTest -->
+      </class> <!-- org.selenium.qa.testcases.DemoWebShopTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
